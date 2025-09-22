@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atef83
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Nueral Network
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me atefg1@hotmail.com
 
